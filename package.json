@@ -1,7 +1,7 @@
 {
-  "name": "Rohit Pal portfolio website",
+  "name": "s8sachin.github.io",
   "version": "0.1.0",
-  "homepage": "http://rohit pal.github.io",
+  "homepage": "http://s8sachin.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
